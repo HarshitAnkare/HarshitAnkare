@@ -40,7 +40,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=HarshitAnkare&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 </div>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' width='1500' />
-### ✍️ Random Dev Quote:
+### ✍️ Todays Quote:
 <div align="center">
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
