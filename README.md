@@ -1,4 +1,4 @@
-<h1 align="center">Hello! 👋🏻, I'm HARSHIT ANKARE ...!</h1>
+<h1 align="center">Hello! 👋🏻, I'm HARSHIT ANKARE👨🏻‍💻...!</h1>
 <h3 align="center">A passionate Undergraduate Computer Science Engineering student at LNCTE from INDIA</h3>
 
 <div align="center">
