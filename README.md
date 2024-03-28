@@ -1,7 +1,6 @@
 <h1 align="center">Hello! 👋🏻, I'm HARSHIT ANKARE ...!</h1>
 <h3 align="center">A passionate Undergraduate Computer Science Engineering student at LNCTE from INDIA</h3>
 
-
 <div align="center">
   
 [![](https://visitcount.itsvg.in/api?id=HarshitAnkare&icon=3&color=1)](https://visitcount.itsvg.in)</div>
