@@ -6,7 +6,7 @@
 [![](https://visitcount.itsvg.in/api?id=HarshitAnkare&icon=3&color=1)](https://visitcount.itsvg.in)</div>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' width='1500' />
 
-<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="360" height="240">
+<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="380" height="260">
 # 💫 About Me:<br>
 <br>
 🔭 I’m currently working on Jarvis-AI<br><br>🌱 I’m currently learning AIML, DataScience & PowerBI<br><br>👯 I’m looking to collaborate on NVIDIA<br><br>🤝 I’m looking for help with AIML<br><br>📫 How to reach me harshitankare74@gmail.com
