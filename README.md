@@ -11,8 +11,8 @@ From designing efficient algorithms to tackling complex problems in artificial i
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' width='1500' />
 
 <img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="380" height="260">
-# 💫<h1>About Me:</h1><br>
-<br>
+<h1># 💫About Me:</h1><br>
+
 🔭 I’m currently working on <b>Jarvis-AI</b><br><br>🌱 I’m currently learning <b>AIML, DataScience & PowerBI</b><br><br>👯 I’m looking to collaborate on <b>NVIDIA</b><br><br>🤝 I’m looking for help with <b>AIML</b><br><br>📫 How to reach me <b>harshitankare74@gmail.com</b>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' width='1500' />
 
