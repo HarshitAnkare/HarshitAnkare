@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#0000ff;">Hello! 👋🏻, I'm Harshit Ankare👨🏻‍💻...!</h1>.
+<h1 align="center" style="color:#0000ff;">Hello! 👋🏻, I'm Harshit Ankare👨🏻‍💻...!</h1>
 <div align="center"><img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' width='600' /></div>
 
 <h3 align="center" style="color:yellow;">A passionate Undergraduate Computer Science Engineering student at LNCTE from INDIA. <br><br>I am deeply immersed in the intricate world of algorithms, data structures, software engineering principles, and cutting-edge technologies. My academic journey is a fusion of theoretical knowledge and hands-on experience, as I delve into programming language such as Python and explore it's applications in developing robust software systems.
