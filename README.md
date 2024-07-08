@@ -3,7 +3,7 @@
 
 <h3 align="center" style="color:yellow;">A passionate Undergraduate Computer Science Engineering student at LNCTE from INDIA. <br><br>I am deeply immersed in the intricate world of algorithms, datascience, machinelearning, data structures, software engineering principles, and cutting-edge technologies. My academic journey is a fusion of theoretical knowledge and hands-on experience, as I delve into programming language such as Python and explore it's applications in developing robust software systems.
 
-From designing efficient algorithms to tackling complex problems inb artificial intelligence, machine learning, and data science, I am constantly honing my analytical and problem-solving skills. Additionally, I eagerly engage in practical projects, hackathons, and coding competitions to apply my theoretical knowledge to real-world scenarios and collaborate with peers to innovate and create impactful solutions.</h3>
+From designing efficient algorithms to tackling complex problems in artificial intelligence, machine learning, and data science, I am constantly honing my analytical and problem-solving skills. Additionally, I eagerly engage in practical projects, hackathons, and coding competitions to apply my theoretical knowledge to real-world scenarios and collaborate with peers to innovate and create impactful solutions.</h3>
 
 <div align="center">
   
